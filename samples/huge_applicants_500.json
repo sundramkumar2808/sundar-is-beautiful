@@ -1,0 +1,4505 @@
+{
+  "total_applicants": 500,
+  "students": [
+    {
+      "student_id": "CS20260001",
+      "name": "Aarav Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260002",
+      "name": "Aditi Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260003",
+      "name": "Akash Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260004",
+      "name": "Ananya Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260005",
+      "name": "Arjun Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260006",
+      "name": "Bhavya Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260007",
+      "name": "Chirag Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260008",
+      "name": "Deepak Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260009",
+      "name": "Divya Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260010",
+      "name": "Gaurav Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260011",
+      "name": "Harsh Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260012",
+      "name": "Ishaan Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260013",
+      "name": "Juhi Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260014",
+      "name": "Karthik Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260015",
+      "name": "Kavya Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260016",
+      "name": "Kunal Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260017",
+      "name": "Manish Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260018",
+      "name": "Meera Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260019",
+      "name": "Naveen Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260020",
+      "name": "Neha Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260021",
+      "name": "Nikhil Sharma",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260022",
+      "name": "Pooja Patel",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260023",
+      "name": "Pranav Reddy",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260024",
+      "name": "Priya Joshi",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260025",
+      "name": "Rahul Rao",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260026",
+      "name": "Rhea Sen",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260027",
+      "name": "Rohan Dhawan",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260028",
+      "name": "Rohit Kapoor",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260029",
+      "name": "Sakshi Pandey",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260030",
+      "name": "Sameer Yadav",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260031",
+      "name": "Sanjay Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260032",
+      "name": "Shreya Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260033",
+      "name": "Siddharth Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260034",
+      "name": "Sneha Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260035",
+      "name": "Sundram Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260036",
+      "name": "Tanvi Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260037",
+      "name": "Tarun Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260038",
+      "name": "Varun Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260039",
+      "name": "Vikram Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260040",
+      "name": "Yash Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260041",
+      "name": "Aarav Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260042",
+      "name": "Aditi Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260043",
+      "name": "Akash Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260044",
+      "name": "Ananya Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260045",
+      "name": "Arjun Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260046",
+      "name": "Bhavya Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260047",
+      "name": "Chirag Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260048",
+      "name": "Deepak Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260049",
+      "name": "Divya Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260050",
+      "name": "Gaurav Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260051",
+      "name": "Harsh Sharma",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260052",
+      "name": "Ishaan Patel",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260053",
+      "name": "Juhi Reddy",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260054",
+      "name": "Karthik Joshi",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260055",
+      "name": "Kavya Rao",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260056",
+      "name": "Kunal Sen",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260057",
+      "name": "Manish Dhawan",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260058",
+      "name": "Meera Kapoor",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260059",
+      "name": "Naveen Pandey",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260060",
+      "name": "Neha Yadav",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260061",
+      "name": "Nikhil Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260062",
+      "name": "Pooja Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260063",
+      "name": "Pranav Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260064",
+      "name": "Priya Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260065",
+      "name": "Rahul Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260066",
+      "name": "Rhea Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260067",
+      "name": "Rohan Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260068",
+      "name": "Rohit Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260069",
+      "name": "Sakshi Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260070",
+      "name": "Sameer Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260071",
+      "name": "Sanjay Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260072",
+      "name": "Shreya Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260073",
+      "name": "Siddharth Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260074",
+      "name": "Sneha Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260075",
+      "name": "Sundram Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260076",
+      "name": "Tanvi Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260077",
+      "name": "Tarun Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260078",
+      "name": "Varun Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260079",
+      "name": "Vikram Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260080",
+      "name": "Yash Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260081",
+      "name": "Aarav Sharma",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260082",
+      "name": "Aditi Patel",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260083",
+      "name": "Akash Reddy",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260084",
+      "name": "Ananya Joshi",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260085",
+      "name": "Arjun Rao",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260086",
+      "name": "Bhavya Sen",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260087",
+      "name": "Chirag Dhawan",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260088",
+      "name": "Deepak Kapoor",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260089",
+      "name": "Divya Pandey",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260090",
+      "name": "Gaurav Yadav",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260091",
+      "name": "Harsh Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260092",
+      "name": "Ishaan Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260093",
+      "name": "Juhi Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260094",
+      "name": "Karthik Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260095",
+      "name": "Kavya Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260096",
+      "name": "Kunal Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260097",
+      "name": "Manish Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260098",
+      "name": "Meera Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260099",
+      "name": "Naveen Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260100",
+      "name": "Neha Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260101",
+      "name": "Nikhil Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260102",
+      "name": "Pooja Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260103",
+      "name": "Pranav Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260104",
+      "name": "Priya Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260105",
+      "name": "Rahul Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260106",
+      "name": "Rhea Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260107",
+      "name": "Rohan Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260108",
+      "name": "Rohit Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260109",
+      "name": "Sakshi Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260110",
+      "name": "Sameer Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260111",
+      "name": "Sanjay Sharma",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260112",
+      "name": "Shreya Patel",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260113",
+      "name": "Siddharth Reddy",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260114",
+      "name": "Sneha Joshi",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260115",
+      "name": "Sundram Rao",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260116",
+      "name": "Tanvi Sen",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260117",
+      "name": "Tarun Dhawan",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260118",
+      "name": "Varun Kapoor",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260119",
+      "name": "Vikram Pandey",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260120",
+      "name": "Yash Yadav",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260121",
+      "name": "Aarav Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260122",
+      "name": "Aditi Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260123",
+      "name": "Akash Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260124",
+      "name": "Ananya Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260125",
+      "name": "Arjun Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260126",
+      "name": "Bhavya Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260127",
+      "name": "Chirag Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260128",
+      "name": "Deepak Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260129",
+      "name": "Divya Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260130",
+      "name": "Gaurav Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260131",
+      "name": "Harsh Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260132",
+      "name": "Ishaan Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260133",
+      "name": "Juhi Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260134",
+      "name": "Karthik Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260135",
+      "name": "Kavya Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260136",
+      "name": "Kunal Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260137",
+      "name": "Manish Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260138",
+      "name": "Meera Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260139",
+      "name": "Naveen Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260140",
+      "name": "Neha Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260141",
+      "name": "Nikhil Sharma",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260142",
+      "name": "Pooja Patel",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260143",
+      "name": "Pranav Reddy",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260144",
+      "name": "Priya Joshi",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260145",
+      "name": "Rahul Rao",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260146",
+      "name": "Rhea Sen",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260147",
+      "name": "Rohan Dhawan",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260148",
+      "name": "Rohit Kapoor",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260149",
+      "name": "Sakshi Pandey",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260150",
+      "name": "Sameer Yadav",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260151",
+      "name": "Sanjay Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260152",
+      "name": "Shreya Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260153",
+      "name": "Siddharth Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260154",
+      "name": "Sneha Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260155",
+      "name": "Sundram Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260156",
+      "name": "Tanvi Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260157",
+      "name": "Tarun Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260158",
+      "name": "Varun Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260159",
+      "name": "Vikram Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260160",
+      "name": "Yash Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260161",
+      "name": "Aarav Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260162",
+      "name": "Aditi Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260163",
+      "name": "Akash Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260164",
+      "name": "Ananya Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260165",
+      "name": "Arjun Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260166",
+      "name": "Bhavya Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260167",
+      "name": "Chirag Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260168",
+      "name": "Deepak Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260169",
+      "name": "Divya Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260170",
+      "name": "Gaurav Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260171",
+      "name": "Harsh Sharma",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260172",
+      "name": "Ishaan Patel",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260173",
+      "name": "Juhi Reddy",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260174",
+      "name": "Karthik Joshi",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260175",
+      "name": "Kavya Rao",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260176",
+      "name": "Kunal Sen",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260177",
+      "name": "Manish Dhawan",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260178",
+      "name": "Meera Kapoor",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260179",
+      "name": "Naveen Pandey",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260180",
+      "name": "Neha Yadav",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260181",
+      "name": "Nikhil Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260182",
+      "name": "Pooja Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260183",
+      "name": "Pranav Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260184",
+      "name": "Priya Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260185",
+      "name": "Rahul Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260186",
+      "name": "Rhea Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260187",
+      "name": "Rohan Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260188",
+      "name": "Rohit Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260189",
+      "name": "Sakshi Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260190",
+      "name": "Sameer Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260191",
+      "name": "Sanjay Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260192",
+      "name": "Shreya Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260193",
+      "name": "Siddharth Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260194",
+      "name": "Sneha Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260195",
+      "name": "Sundram Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260196",
+      "name": "Tanvi Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260197",
+      "name": "Tarun Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260198",
+      "name": "Varun Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260199",
+      "name": "Vikram Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260200",
+      "name": "Yash Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260201",
+      "name": "Aarav Sharma",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260202",
+      "name": "Aditi Patel",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260203",
+      "name": "Akash Reddy",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260204",
+      "name": "Ananya Joshi",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260205",
+      "name": "Arjun Rao",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260206",
+      "name": "Bhavya Sen",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260207",
+      "name": "Chirag Dhawan",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260208",
+      "name": "Deepak Kapoor",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260209",
+      "name": "Divya Pandey",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260210",
+      "name": "Gaurav Yadav",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260211",
+      "name": "Harsh Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260212",
+      "name": "Ishaan Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260213",
+      "name": "Juhi Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260214",
+      "name": "Karthik Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260215",
+      "name": "Kavya Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260216",
+      "name": "Kunal Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260217",
+      "name": "Manish Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260218",
+      "name": "Meera Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260219",
+      "name": "Naveen Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260220",
+      "name": "Neha Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260221",
+      "name": "Nikhil Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260222",
+      "name": "Pooja Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260223",
+      "name": "Pranav Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260224",
+      "name": "Priya Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260225",
+      "name": "Rahul Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260226",
+      "name": "Rhea Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260227",
+      "name": "Rohan Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260228",
+      "name": "Rohit Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260229",
+      "name": "Sakshi Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260230",
+      "name": "Sameer Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260231",
+      "name": "Sanjay Sharma",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260232",
+      "name": "Shreya Patel",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260233",
+      "name": "Siddharth Reddy",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260234",
+      "name": "Sneha Joshi",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260235",
+      "name": "Sundram Rao",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260236",
+      "name": "Tanvi Sen",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260237",
+      "name": "Tarun Dhawan",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260238",
+      "name": "Varun Kapoor",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260239",
+      "name": "Vikram Pandey",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260240",
+      "name": "Yash Yadav",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260241",
+      "name": "Aarav Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260242",
+      "name": "Aditi Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260243",
+      "name": "Akash Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260244",
+      "name": "Ananya Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260245",
+      "name": "Arjun Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260246",
+      "name": "Bhavya Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260247",
+      "name": "Chirag Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260248",
+      "name": "Deepak Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260249",
+      "name": "Divya Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260250",
+      "name": "Gaurav Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260251",
+      "name": "Harsh Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260252",
+      "name": "Ishaan Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260253",
+      "name": "Juhi Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260254",
+      "name": "Karthik Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260255",
+      "name": "Kavya Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260256",
+      "name": "Kunal Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260257",
+      "name": "Manish Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260258",
+      "name": "Meera Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260259",
+      "name": "Naveen Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260260",
+      "name": "Neha Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260261",
+      "name": "Nikhil Sharma",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260262",
+      "name": "Pooja Patel",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260263",
+      "name": "Pranav Reddy",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260264",
+      "name": "Priya Joshi",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260265",
+      "name": "Rahul Rao",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260266",
+      "name": "Rhea Sen",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260267",
+      "name": "Rohan Dhawan",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260268",
+      "name": "Rohit Kapoor",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260269",
+      "name": "Sakshi Pandey",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260270",
+      "name": "Sameer Yadav",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260271",
+      "name": "Sanjay Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260272",
+      "name": "Shreya Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260273",
+      "name": "Siddharth Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260274",
+      "name": "Sneha Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260275",
+      "name": "Sundram Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260276",
+      "name": "Tanvi Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260277",
+      "name": "Tarun Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260278",
+      "name": "Varun Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260279",
+      "name": "Vikram Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260280",
+      "name": "Yash Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260281",
+      "name": "Aarav Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260282",
+      "name": "Aditi Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260283",
+      "name": "Akash Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260284",
+      "name": "Ananya Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260285",
+      "name": "Arjun Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260286",
+      "name": "Bhavya Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260287",
+      "name": "Chirag Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260288",
+      "name": "Deepak Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260289",
+      "name": "Divya Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260290",
+      "name": "Gaurav Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260291",
+      "name": "Harsh Sharma",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260292",
+      "name": "Ishaan Patel",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260293",
+      "name": "Juhi Reddy",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260294",
+      "name": "Karthik Joshi",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260295",
+      "name": "Kavya Rao",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260296",
+      "name": "Kunal Sen",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260297",
+      "name": "Manish Dhawan",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260298",
+      "name": "Meera Kapoor",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260299",
+      "name": "Naveen Pandey",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260300",
+      "name": "Neha Yadav",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260301",
+      "name": "Nikhil Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260302",
+      "name": "Pooja Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260303",
+      "name": "Pranav Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260304",
+      "name": "Priya Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260305",
+      "name": "Rahul Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260306",
+      "name": "Rhea Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260307",
+      "name": "Rohan Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260308",
+      "name": "Rohit Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260309",
+      "name": "Sakshi Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260310",
+      "name": "Sameer Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260311",
+      "name": "Sanjay Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260312",
+      "name": "Shreya Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260313",
+      "name": "Siddharth Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260314",
+      "name": "Sneha Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260315",
+      "name": "Sundram Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260316",
+      "name": "Tanvi Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260317",
+      "name": "Tarun Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260318",
+      "name": "Varun Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260319",
+      "name": "Vikram Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260320",
+      "name": "Yash Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260321",
+      "name": "Aarav Sharma",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260322",
+      "name": "Aditi Patel",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260323",
+      "name": "Akash Reddy",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260324",
+      "name": "Ananya Joshi",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260325",
+      "name": "Arjun Rao",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260326",
+      "name": "Bhavya Sen",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260327",
+      "name": "Chirag Dhawan",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260328",
+      "name": "Deepak Kapoor",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260329",
+      "name": "Divya Pandey",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260330",
+      "name": "Gaurav Yadav",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260331",
+      "name": "Harsh Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260332",
+      "name": "Ishaan Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260333",
+      "name": "Juhi Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260334",
+      "name": "Karthik Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260335",
+      "name": "Kavya Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260336",
+      "name": "Kunal Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260337",
+      "name": "Manish Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260338",
+      "name": "Meera Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260339",
+      "name": "Naveen Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260340",
+      "name": "Neha Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260341",
+      "name": "Nikhil Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260342",
+      "name": "Pooja Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260343",
+      "name": "Pranav Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260344",
+      "name": "Priya Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260345",
+      "name": "Rahul Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260346",
+      "name": "Rhea Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260347",
+      "name": "Rohan Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260348",
+      "name": "Rohit Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260349",
+      "name": "Sakshi Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260350",
+      "name": "Sameer Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260351",
+      "name": "Sanjay Sharma",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260352",
+      "name": "Shreya Patel",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260353",
+      "name": "Siddharth Reddy",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260354",
+      "name": "Sneha Joshi",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260355",
+      "name": "Sundram Rao",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260356",
+      "name": "Tanvi Sen",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260357",
+      "name": "Tarun Dhawan",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260358",
+      "name": "Varun Kapoor",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260359",
+      "name": "Vikram Pandey",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260360",
+      "name": "Yash Yadav",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260361",
+      "name": "Aarav Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260362",
+      "name": "Aditi Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260363",
+      "name": "Akash Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260364",
+      "name": "Ananya Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260365",
+      "name": "Arjun Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260366",
+      "name": "Bhavya Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260367",
+      "name": "Chirag Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260368",
+      "name": "Deepak Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260369",
+      "name": "Divya Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260370",
+      "name": "Gaurav Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260371",
+      "name": "Harsh Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260372",
+      "name": "Ishaan Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260373",
+      "name": "Juhi Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260374",
+      "name": "Karthik Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260375",
+      "name": "Kavya Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260376",
+      "name": "Kunal Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260377",
+      "name": "Manish Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260378",
+      "name": "Meera Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260379",
+      "name": "Naveen Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260380",
+      "name": "Neha Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260381",
+      "name": "Nikhil Sharma",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260382",
+      "name": "Pooja Patel",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260383",
+      "name": "Pranav Reddy",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260384",
+      "name": "Priya Joshi",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260385",
+      "name": "Rahul Rao",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260386",
+      "name": "Rhea Sen",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260387",
+      "name": "Rohan Dhawan",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260388",
+      "name": "Rohit Kapoor",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260389",
+      "name": "Sakshi Pandey",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260390",
+      "name": "Sameer Yadav",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260391",
+      "name": "Sanjay Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260392",
+      "name": "Shreya Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260393",
+      "name": "Siddharth Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260394",
+      "name": "Sneha Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260395",
+      "name": "Sundram Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260396",
+      "name": "Tanvi Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260397",
+      "name": "Tarun Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260398",
+      "name": "Varun Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260399",
+      "name": "Vikram Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260400",
+      "name": "Yash Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260401",
+      "name": "Aarav Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260402",
+      "name": "Aditi Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260403",
+      "name": "Akash Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260404",
+      "name": "Ananya Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260405",
+      "name": "Arjun Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260406",
+      "name": "Bhavya Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260407",
+      "name": "Chirag Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260408",
+      "name": "Deepak Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260409",
+      "name": "Divya Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260410",
+      "name": "Gaurav Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260411",
+      "name": "Harsh Sharma",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260412",
+      "name": "Ishaan Patel",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260413",
+      "name": "Juhi Reddy",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260414",
+      "name": "Karthik Joshi",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260415",
+      "name": "Kavya Rao",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260416",
+      "name": "Kunal Sen",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260417",
+      "name": "Manish Dhawan",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260418",
+      "name": "Meera Kapoor",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260419",
+      "name": "Naveen Pandey",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260420",
+      "name": "Neha Yadav",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260421",
+      "name": "Nikhil Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260422",
+      "name": "Pooja Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260423",
+      "name": "Pranav Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260424",
+      "name": "Priya Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260425",
+      "name": "Rahul Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260426",
+      "name": "Rhea Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260427",
+      "name": "Rohan Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260428",
+      "name": "Rohit Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260429",
+      "name": "Sakshi Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260430",
+      "name": "Sameer Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260431",
+      "name": "Sanjay Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260432",
+      "name": "Shreya Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260433",
+      "name": "Siddharth Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260434",
+      "name": "Sneha Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260435",
+      "name": "Sundram Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260436",
+      "name": "Tanvi Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260437",
+      "name": "Tarun Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260438",
+      "name": "Varun Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260439",
+      "name": "Vikram Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260440",
+      "name": "Yash Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260441",
+      "name": "Aarav Sharma",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260442",
+      "name": "Aditi Patel",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260443",
+      "name": "Akash Reddy",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260444",
+      "name": "Ananya Joshi",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260445",
+      "name": "Arjun Rao",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260446",
+      "name": "Bhavya Sen",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260447",
+      "name": "Chirag Dhawan",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260448",
+      "name": "Deepak Kapoor",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260449",
+      "name": "Divya Pandey",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260450",
+      "name": "Gaurav Yadav",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260451",
+      "name": "Harsh Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260452",
+      "name": "Ishaan Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260453",
+      "name": "Juhi Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260454",
+      "name": "Karthik Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260455",
+      "name": "Kavya Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260456",
+      "name": "Kunal Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260457",
+      "name": "Manish Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260458",
+      "name": "Meera Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260459",
+      "name": "Naveen Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260460",
+      "name": "Neha Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260461",
+      "name": "Nikhil Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260462",
+      "name": "Pooja Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260463",
+      "name": "Pranav Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260464",
+      "name": "Priya Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260465",
+      "name": "Rahul Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260466",
+      "name": "Rhea Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260467",
+      "name": "Rohan Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260468",
+      "name": "Rohit Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260469",
+      "name": "Sakshi Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260470",
+      "name": "Sameer Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260471",
+      "name": "Sanjay Sharma",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260472",
+      "name": "Shreya Patel",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260473",
+      "name": "Siddharth Reddy",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260474",
+      "name": "Sneha Joshi",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260475",
+      "name": "Sundram Rao",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260476",
+      "name": "Tanvi Sen",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260477",
+      "name": "Tarun Dhawan",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260478",
+      "name": "Varun Kapoor",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260479",
+      "name": "Vikram Pandey",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260480",
+      "name": "Yash Yadav",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260481",
+      "name": "Aarav Sharma",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260482",
+      "name": "Aditi Patel",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260483",
+      "name": "Akash Reddy",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260484",
+      "name": "Ananya Joshi",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260485",
+      "name": "Arjun Rao",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260486",
+      "name": "Bhavya Sen",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A02",
+      "bed": "A02-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260487",
+      "name": "Chirag Dhawan",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B03",
+      "bed": "B03-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260488",
+      "name": "Deepak Kapoor",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C04",
+      "bed": "C04-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260489",
+      "name": "Divya Pandey",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A05",
+      "bed": "A05-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260490",
+      "name": "Gaurav Yadav",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B01",
+      "bed": "B01-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260491",
+      "name": "Harsh Sharma",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C02",
+      "bed": "C02-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260492",
+      "name": "Ishaan Patel",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A03",
+      "bed": "A03-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260493",
+      "name": "Juhi Reddy",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B04",
+      "bed": "B04-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260494",
+      "name": "Karthik Joshi",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C05",
+      "bed": "C05-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260495",
+      "name": "Kavya Rao",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A01",
+      "bed": "A01-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260496",
+      "name": "Kunal Sen",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B02",
+      "bed": "B02-1",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260497",
+      "name": "Manish Dhawan",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C03",
+      "bed": "C03-2",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260498",
+      "name": "Meera Kapoor",
+      "block": "A",
+      "block_name": "Block A",
+      "room": "A04",
+      "bed": "A04-3",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260499",
+      "name": "Naveen Pandey",
+      "block": "B",
+      "block_name": "Block B",
+      "room": "B05",
+      "bed": "B05-4",
+      "status": "occupied"
+    },
+    {
+      "student_id": "CS20260500",
+      "name": "Neha Yadav",
+      "block": "C",
+      "block_name": "Block C",
+      "room": "C01",
+      "bed": "C01-1",
+      "status": "occupied"
+    }
+  ]
+}
